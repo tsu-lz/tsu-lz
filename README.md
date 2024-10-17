@@ -1,8 +1,8 @@
-# xanteriia
+# tsu-lz
  
-**`Digital Craftsman (Website Developer/Game Developer)`**
+**`Software Artisan (Software Developer)`**
  
-I am a beginner developer and games developer learning what my interest are in this new hobby of mine. All of my projects are built with passion and a meaning behind them. I enjoy tweaking everything that I can until I see it as perfect resulting in many hours spent in projects tuning it to my standards.
+I’m a software developer with a passion for turning ideas into efficent and functioning code. I enjoy diving into code and crafting creative solutions. Whether it's building web apps or exploring the latest tech trends, I’m all about creating seamless programs. Let’s connect and work!
  
 ### Languages and Tools
  
