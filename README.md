@@ -2,7 +2,7 @@
  
 **`Code Artisan (Software Developer)`**
  
-I’m a software developer with a passion for turning ideas into efficent and functioning code. I enjoy diving into code and crafting creative solutions. Whether it's building web apps or exploring the latest tech trends, I’m all about creating seamless programs. Let’s connect and work!
+Hello! I'm Luke and I have an interest in software development. I have a passion for turning ideas into efficent and functioning code. Let’s connect and work!
  
 ### Languages and Tools
  
